@@ -1,0 +1,4 @@
+apache:
+  build: asite
+  ports:
+    - "8000:80"
